@@ -1,0 +1,2 @@
+/*! For license information please see app.1ce10723.js.LICENSE.txt */
+(self.webpackChunk=self.webpackChunk||[]).push([[524],{28:(e,t,s)=>{"use strict";s(160)},160:()=>{window.addEventListener("DOMContentLoaded",(e=>{const t=document.body.querySelector("#sidebarToggle");t&&t.addEventListener("click",(e=>{e.preventDefault(),document.body.classList.toggle("sb-sidenav-toggled"),localStorage.setItem("sb|sidebar-toggle",document.body.classList.contains("sb-sidenav-toggled"))}))}))}},e=>{e.O(0,[331],(()=>{return t=28,e(e.s=t);var t}));e.O()}]);
